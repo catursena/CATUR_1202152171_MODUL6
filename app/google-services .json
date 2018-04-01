@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "785173374227",
+    "firebase_url": "https://modul6-andro.firebaseio.com",
+    "project_id": "modul6-andro",
+    "storage_bucket": "modul6-andro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785173374227:android:543db3ecd1c1e318",
+        "android_client_info": {
+          "package_name": "id.catur.catur_1202152171_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785173374227-8tv59r09rgadp9rsjs5ri71hml5oojmj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.catur.catur_1202152171_modul6",
+            "certificate_hash": "a630444ea92864389ebb3241bcfcd768d4be9a80"
+          }
+        },
+        {
+          "client_id": "785173374227-1t0jaf9b17o94t27imvqbpkcjkjvpbct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.catur.catur_1202152171_modul6",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "785173374227-s5hat3dobvb5imoapahhtu3ndap0d2mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgM5sQNuc4wdDNChWO5-UFtl7rIlrrwjQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785173374227-s5hat3dobvb5imoapahhtu3ndap0d2mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
